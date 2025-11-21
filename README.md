@@ -182,9 +182,3 @@ Open source - Available for educational and portfolio purposes
 
 ## 🙏 Acknowledgments
 
-Created as a portfolio project for fresher job applications at Cognizant GenC, TCS, Wipro, Infosys, and other IT companies.
-
----
-
-**⭐ Star this repository if you find it helpful!**  
-**💼 Perfect for freshers' resumes and job applications**
